@@ -1,0 +1,1 @@
+To note, if you're trying to run a dedicated server, the most up to date binaries are already included in the build directory of this repository.
